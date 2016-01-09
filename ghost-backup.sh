@@ -1,7 +1,7 @@
 #!/bin/bash
 # backs up Ghost blog content
 # requires downtime, but attempts to keep it at a minimum
-# created by Dave Snigier - https://davesnigier.com/
+# created by Dave Snigier - https://davesnigier.com/backups-for-ghost-blogs
 
 ### ----- Configuration ----- ###
 
